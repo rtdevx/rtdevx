@@ -16,9 +16,9 @@ I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes*
 - **PowerShell** - used for Windows 11 Bootstraping.
 - **Proxmox Virtual Environment** - virtualization platform to host my homelab.
 ---
-<p align="center">
+
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robertkls/)
-</p>
+
 
 <!--
 **rtdevx/rtdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
