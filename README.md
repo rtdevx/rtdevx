@@ -2,7 +2,7 @@
 
 My name is **Bob**.
 
-- 🌱 I am currently learning: ![DevOps / GitOps / Ansible and Kubernetes](https://github.com/rtdevx/homelab/tree/main/ansible/site#readme).
+- 🌱 I am currently learning: **DevOps**, **GitOps**, **Ansible** and **Kubernetes**.
 
 I aim to implement a **GitOps** workflow for managing **Kubernetes** infrastructure, leveraging **Ansible** for provisioning and configuration management, with all code and automation version-controlled in GitHub.
 
