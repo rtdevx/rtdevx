@@ -6,10 +6,10 @@ My name is **Bob**.
 
 I aim to implement a **GitOps** workflow for managing **Kubernetes** infrastructure, leveraging **Ansible** for provisioning and configuration management, with all code and automation version-controlled in GitHub.
 
-## Technologies used
+## Technologies used in my homelab
 
 - **Ansible** - end-to-end Linux Automation
-- **FluxCD** - for keeping Kubernetes clusters in sync with sources of configuration (like Git repositories), and automating updates to configuration when there is new code to deploy.
+- **FluxCD** - for keeping Kubernetes clusters in sync with sources of configuration and automating updates to configuration when there is new code to deploy.
 - **Kubernetes** - container orchestration engine.
 - **K3s** - a fully compliant Kubernetes distribution.
 - **Powershell** - Windows 11 Bootstraping
