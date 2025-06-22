@@ -2,7 +2,9 @@
 
 My name is **Bob**.
 
-- 🌱 I am currently learning: **DevOps**, **GitOps**, **Ansible** and **Kubernetes**.
+<p align="center">
+🌱 I am currently learning: **DevOps**, **GitOps**, **Ansible** and **Kubernetes**.
+</p>
 
 I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes** infrastructure, leveraging **Ansible** for provisioning and configuration management, with all code and automation version-controlled in GitHub.
 
