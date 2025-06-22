@@ -1,6 +1,4 @@
-## Hi there 👋
-
-My name is **Bob**.
+## Hi there 👋 my name is Bob.
 
 <p align="center">
 🌱 I am currently learning: <b>DevOps</b>, <b>GitOps</b>, <b>Ansible</b> and <b>Kubernetes</b>.
