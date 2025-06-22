@@ -4,7 +4,7 @@ My name is **Bob**.
 
 - 🌱 I am currently learning: **DevOps**, **GitOps**, **Ansible** and **Kubernetes**.
 
-I aim to implement a **GitOps** workflow for managing **Kubernetes** infrastructure, leveraging **Ansible** for provisioning and configuration management, with all code and automation version-controlled in GitHub.
+I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes** infrastructure, leveraging **Ansible** for provisioning and configuration management, with all code and automation version-controlled in GitHub.
 
 ## Tools and Technologies used in my homelab
 
