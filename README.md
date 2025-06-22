@@ -2,8 +2,7 @@
 
 My name is **Bob**.
 
-- 🔭 Currently working on: ![My homelab](https://github.com/rtdevx/homelab/tree/main?tab=readme-ov-file#homelab-configuration).
-- 🌱 Currently learning: ![DevOps / GitOps / Ansible and Kubernetes](https://github.com/rtdevx/homelab/tree/main/ansible/site#readme).
+- 🌱 I am currently learning: ![DevOps / GitOps / Ansible and Kubernetes](https://github.com/rtdevx/homelab/tree/main/ansible/site#readme).
 
 I aim to implement a **GitOps** workflow for managing **Kubernetes** infrastructure, leveraging **Ansible** for provisioning and configuration management, with all code and automation version-controlled in GitHub.
 
