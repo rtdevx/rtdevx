@@ -1,4 +1,6 @@
+<p align="center">
 ## Hi there 👋
+</p>
 
 My name is **Bob**.
 
