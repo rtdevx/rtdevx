@@ -19,7 +19,7 @@ I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes*
 
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robertkls/)
 
-  <center>
+<p align="center">
 [I'm an inline-style link](https://www.google.com)
 
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
@@ -41,7 +41,7 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
-  </center>
+</p>
 
 <!--
 **rtdevx/rtdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
