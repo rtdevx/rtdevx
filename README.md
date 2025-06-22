@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+My name is **Bob**.
+
 - 🔭 Currently working on: ![My homelab](https://github.com/rtdevx/homelab/tree/main?tab=readme-ov-file#homelab-configuration).
 - 🌱 Currently learning: ![DevOps / GitOps / Ansible and Kubernetes](https://github.com/rtdevx/homelab/tree/main/ansible/site#readme).
 
