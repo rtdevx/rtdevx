@@ -6,7 +6,7 @@ My name is **Bob**.
 
 I aim to implement a **GitOps** workflow for managing **Kubernetes** infrastructure, leveraging **Ansible** for provisioning and configuration management, with all code and automation version-controlled in GitHub.
 
-## Technologies used in my homelab
+## Tools and Technologies used in my homelab
 
 - **Ansible** - end-to-end Linux Automation.
 - **FluxCD** - keeping Kubernetes clusters in sync with sources of configuration and automating updates to configuration when there is new code to deploy.
