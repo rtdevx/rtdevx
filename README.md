@@ -1,5 +1,8 @@
 ## Hi there 👋
 
+- 🔭 I’m currently working on ![My homelab](https://github.com/rtdevx/homelab/tree/main?tab=readme-ov-file#homelab-configuration).
+- 🌱 I’m currently learning ![MAnsible and Kubernetes](https://github.com/rtdevx/homelab/tree/main/ansible/site#readme).
+
 <!--
 **rtdevx/rtdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
