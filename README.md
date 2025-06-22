@@ -17,7 +17,7 @@ I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes*
 - **Proxmox Virtual Environment** - virtualization platform to host my homelab.
 ---
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robertkls/)
+📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robertkls/)
 
 <!--
 **rtdevx/rtdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
