@@ -21,16 +21,27 @@ I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes*
 
 <p align="center">
 [I'm an inline-style link](https://www.google.com)
+</p>
 
+<p align="center">
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
+</p>
 
+<p align="center">
 [I'm a reference-style link][Arbitrary case-insensitive reference text]
+</p>
 
+<p align="center">
 [I'm a relative reference to a repository file](../blob/master/LICENSE)
+</p>
 
+<p align="center">
 [You can use numbers for reference-style link definitions][1]
+</p>
 
+<p align="center">
 Or leave it empty and use the [link text itself].
+</p>
 
 URLs and URLs in angle brackets will automatically get turned into links. 
 http://www.example.com or <http://www.example.com> and sometimes 
@@ -41,7 +52,7 @@ Some text to show that the reference links can follow later.
 [arbitrary case-insensitive reference text]: https://www.mozilla.org
 [1]: http://slashdot.org
 [link text itself]: http://www.reddit.com
-</p>
+
 
 <!--
 **rtdevx/rtdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
