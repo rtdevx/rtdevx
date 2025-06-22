@@ -15,7 +15,8 @@ I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes*
 - **K3s** - fully compliant Kubernetes distribution.
 - **PowerShell** - used for Windows 11 Bootstraping.
 - **Proxmox Virtual Environment** - virtualization platform to host my homelab.
-___
+
+<hr style="border:1px;">
 
 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robertkls/)
 
