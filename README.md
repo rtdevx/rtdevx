@@ -17,9 +17,9 @@ I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes*
 - **Proxmox Virtual Environment** - virtualization platform to host my homelab.
 
 <p align="center">
-  ***
-⚡ Fuelled by a passion for tech and automation, these repos are my playground - freely shared, no rights reserved. ⚡
-  ***
+  ***<br />
+⚡ Fuelled by a passion for tech and automation, these repos are my playground - freely shared, no rights reserved. ⚡<br />
+  ***<br />
 </p>
 
 <!--
