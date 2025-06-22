@@ -6,6 +6,15 @@ My name is **Bob**.
 
 I aim to implement a **GitOps** workflow for managing **Kubernetes** infrastructure, leveraging **Ansible** for provisioning and configuration management, with all code and automation version-controlled in GitHub.
 
+## Technologies used
+
+- **Ansible** - end-to-end Linux Automation
+- **FluxCD** - for keeping Kubernetes clusters in sync with sources of configuration (like Git repositories), and automating updates to configuration when there is new code to deploy.
+- **Kubernetes** - container orchestration engine.
+- **K3s** - a fully compliant Kubernetes distribution.
+- **Powershell** - Windows 11 Bootstraping
+- **Proxmox Virtual Environment** - virtualization platform to host my homelab.
+
 <!--
 **rtdevx/rtdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
