@@ -12,7 +12,7 @@ I aim to implement a **GitOps** workflow for managing **Kubernetes** infrastruct
 - **FluxCD** - keeping Kubernetes clusters in sync with sources of configuration and automating updates to configuration when there is new code to deploy.
 - **Kubernetes** - container orchestration engine.
 - **K3s** - fully compliant Kubernetes distribution.
-- **Powershell** - used for Windows 11 Bootstraping.
+- **PowerShell** - used for Windows 11 Bootstraping.
 - **Proxmox Virtual Environment** - virtualization platform to host my homelab.
 
 <!--
