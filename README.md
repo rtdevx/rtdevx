@@ -1,7 +1,7 @@
 ## 👋 Hi there, my name is Rob.
 
 <p align="center">
-🌱 <u>I am currently learning: <b>DevOps</b>, <b>GitOps</b>, <b>Ansible</b> and <b>Kubernetes</b>.</u>
+🌱 I am currently learning: <b>DevOps</b>, <b>GitOps</b>, <b>Ansible</b> and <b>Kubernetes</b>.
 </p>
 
 I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes** infrastructure, leveraging **Ansible** for provisioning and configuration management, with all code and automation version-controlled in GitHub.
