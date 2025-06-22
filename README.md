@@ -16,7 +16,9 @@ I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes*
 - **PowerShell** - used for Windows 11 Bootstraping.
 - **Proxmox Virtual Environment** - virtualization platform to host my homelab.
 
-⚡ Fuelled by a passion for tech and automation, these repos are my playground — freely shared, no rights reserved. ⚡
+<center>
+⚡ Fuelled by a passion for tech and automation, these repos are my playground - freely shared, no rights reserved. ⚡
+</center>
 
 <!--
 ⚡ These repositories are dedicated to experimentation and learning and are released without any rights reserved. ⚡
