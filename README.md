@@ -28,9 +28,12 @@ I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes*
 ⚡ These repositories are dedicated to experimentation and learning and are released without any rights reserved. ⚡
 -->
 
-##  
+## 
 
-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robertkls/)
+<p align="center">
+📫 How to reach me: <a href="https://www.linkedin.com/in/robertkls/">Linkedin</a> 
+<!-- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/robertkls/) -->
+</p>
 
 <!--
 **rtdevx/rtdevx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
