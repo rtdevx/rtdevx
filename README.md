@@ -18,7 +18,7 @@ I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes*
 
 <p align="center">
   ***<br />
-⚡ Fuelled by a passion for tech and automation, these repos are my playground - freely shared, no rights reserved. ⚡<br />
+⚡ Fuelled by a passion for tech and automation, these repos are my playground... ⚡<br />
   ***<br />
 </p>
 
