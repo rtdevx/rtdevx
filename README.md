@@ -9,7 +9,7 @@ I aim to learn how to implement a **GitOps** workflow for managing **Kubernetes*
 ## DevOps Tools and Technologies used in my homelab
 
 - **Ansible** - end-to-end Linux Automation.
-- [Ansible](homelab/tree/main/ansible/site)
+- **[Ansible]**(https://github.com/rtdevx/homelab/tree/main/ansible/site)
 - **FluxCD** - keeping Kubernetes clusters in sync with sources of configuration and automating updates to configuration when there is new code to deploy.
 - **GitHub** - source and version control.
 - **Kubernetes** - container orchestration engine.
