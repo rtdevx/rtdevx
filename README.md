@@ -8,7 +8,7 @@
 
 - **[Ansible](https://github.com/rtdevx/homelab/tree/main/ansible/site)** - end-to-end Linux Automation.
 <!-- - **FluxCD** - keeping Kubernetes clusters in sync with sources of configuration and automating updates to configuration when there is new code to deploy. -->
-- **GitHub** - source and version control.
+- **GitHub / GitHub Actions** - source and version control.
 <!-- - **[Kubernetes](https://github.com/rtdevx/kubernetes)** - container orchestration engine. -->
 <!-- - **K3s** - fully compliant Kubernetes distribution. -->
 <!-- - **PowerShell** - used for Windows 11 Bootstraping. -->
