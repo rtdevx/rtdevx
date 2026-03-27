@@ -13,7 +13,7 @@
 <!-- - **K3s** - fully compliant Kubernetes distribution. -->
 <!-- - **PowerShell** - used for Windows 11 Bootstraping. -->
 - **Proxmox Virtual Environment** - virtualization platform to host my homelab.
-- **[Terraform](https://github.com/rtdevx/terraform)** - infrastructure-as-code.
+- **[Terraform](https://github.com/rtdevx/iac-terraform-aws-jvx)** - infrastructure-as-code.
 
 <!--
 
