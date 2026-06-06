@@ -6,16 +6,18 @@
 🌱 I am currently learning: <b>DevOps</b>, <b>Ansible</b>, <b>AWS</b> and <b>Terraform</b>.
 </p>
 
-- **[Ansible](https://github.com/rtdevx/homelab/tree/main/ansible/site)** - end-to-end Linux Automation.
+-->
+
+<!-- - **[Ansible](https://github.com/rtdevx/homelab/tree/main/ansible/site)** - end-to-end Linux Automation. -->
 <!-- - **FluxCD** - keeping Kubernetes clusters in sync with sources of configuration and automating updates to configuration when there is new code to deploy. -->
-- **GitHub / GitHub Actions** - source, version control and CICD Workflows.
+<!-- - **GitHub / GitHub Actions** - source, version control and CICD Workflows. -->
 <!-- - **[Kubernetes](https://github.com/rtdevx/kubernetes)** - container orchestration engine. -->
 <!-- - **K3s** - fully compliant Kubernetes distribution. -->
 <!-- - **PowerShell** - used for Windows 11 Bootstraping. -->
-- **Proxmox Virtual Environment** - virtualization platform to host my homelab.
-- **[Terraform](https://github.com/rtdevx/iac-terraform-aws-jvx)** - infrastructure-as-code.
+<!-- - **Proxmox Virtual Environment** - virtualization platform to host my homelab. -->
+<!-- - **[Terraform](https://github.com/rtdevx/iac-terraform-aws-jvx)** - infrastructure-as-code. -->
 
--->
+
 
 <!--
 
