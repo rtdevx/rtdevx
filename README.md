@@ -1,10 +1,10 @@
 ## 👋 Hi there, my name is Rob.
 
+<!--
+
 <p align="center">
 🌱 I am currently learning: <b>DevOps</b>, <b>Ansible</b>, <b>AWS</b> and <b>Terraform</b>.
 </p>
-
-## DevOps Tools and Technologies used in my homelab
 
 - **[Ansible](https://github.com/rtdevx/homelab/tree/main/ansible/site)** - end-to-end Linux Automation.
 <!-- - **FluxCD** - keeping Kubernetes clusters in sync with sources of configuration and automating updates to configuration when there is new code to deploy. -->
@@ -14,6 +14,8 @@
 <!-- - **PowerShell** - used for Windows 11 Bootstraping. -->
 - **Proxmox Virtual Environment** - virtualization platform to host my homelab.
 - **[Terraform](https://github.com/rtdevx/iac-terraform-aws-jvx)** - infrastructure-as-code.
+
+-->
 
 <!--
 
